@@ -15,7 +15,7 @@ if you use Windows 10, please install the [Windows ADK](https://docs.microsoft.c
 
 ### Install on Windows 10
 
-Download this [zip file]() and launch **AppVMigrationTool.exe** with administrator rights. 
+Download this [zip file](https://github.com/julienbriault/AppVMigrationTool/releases/download/0.0.4/AppVMigrationTool.zip) and launch **AppVMigrationTool.exe** with administrator rights. 
 
 ### What can I do with this tool?
 #### Convert an package App-V 4.6 to App-V 5.1
