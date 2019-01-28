@@ -1,5 +1,5 @@
 # App-V Migration Tool
-A tool to migrate an app-v 4.6 package to app-v 5.1
+A tool to migrate an Microsoft App-V 4.6 package to App-V 5.1
 
 ### Programming context
 The programming of this graphic tool is part of a study project at the ENI school in Nantes, France.
