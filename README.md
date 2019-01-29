@@ -20,6 +20,7 @@ if you use Windows 10, please install the [Windows ADK](https://docs.microsoft.c
 Check **before executing the binary** file that the *PowerShell commandlets* are available. Use 32-bit PowerShell!
 
 ```powershell
+Get-Module -Name AppvPkgConverter
 Get-command *appvlegacy*
 ```
 
