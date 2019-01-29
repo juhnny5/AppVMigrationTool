@@ -17,6 +17,12 @@ To be able to install and use the "AppVMigrationTool" tool, you will need:
 
 if you use Windows 10, please install the [Windows ADK](https://docs.microsoft.com/en-us/windows-hardware/get-started/adk-install)
 
+Check **before executing the binary** file that the *PowerShell commandlets* are available. Use 32-bit PowerShell!
+
+```powershell
+Get-command *appvlegacy*
+```
+
 ### Install on Windows 10
 
 Download this [zip file](https://github.com/julienbriault/AppVMigrationTool/releases/download/0.0.4/AppVMigrationTool.zip) and launch **AppVMigrationTool.exe** with administrator rights. 
