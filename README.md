@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/julienbriault/AppVMigrationTool/master/icones/github-icone.png"/></p>
+ </p>
+
 # App-V Migration Tool
 A tool to migrate an Microsoft App-V 4.6 package to App-V 5.1
 
@@ -19,7 +23,12 @@ Download this [zip file](https://github.com/julienbriault/AppVMigrationTool/rele
 
 ### What can I do with this tool?
 #### Convert an package App-V 4.6 to App-V 5.1
-![alt text](https://raw.githubusercontent.com/julienbriault/AppVMigrationTool/master/images/main-screenshot-appvmigration-tool.png)
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/julienbriault/AppVMigrationTool/master/images/main-screenshot-appvmigration-tool.png"/></p>
+ </p>
+ 
 #### Test an package App-V 4.6 before converting
-![alt text](https://raw.githubusercontent.com/julienbriault/AppVMigrationTool/master/images/test-screenshot-appvmigration-tool.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/julienbriault/AppVMigrationTool/master/images/test-screenshot-appvmigration-tool.png"/></p>
+ </p>
+ 
