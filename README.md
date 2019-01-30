@@ -2,9 +2,15 @@
 description: A tool to migrate an App-V 4.6 package to App-V 5.1
 ---
 
-# Welcome!
+# Start-up guide!
+
+## Programming context
+
+The programming of this graphic tool is part of a study project at the ENI school in Nantes, France. The purpose of this tool is to simplify the conversion from an App-V 4.6 package to a 5.1 package without going through the command line.
 
 ## Getting started
+
+Find the full start-up guide [here](https://julien-briault.gitbook.io/appvmigrationtool/).
 
  To be able to install and use the "AppVMigrationTool" tool, you will need:
 
