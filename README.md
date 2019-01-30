@@ -1,7 +1,7 @@
----
-description: A tool to migrate an App-V 4.6 package to App-V 5.1
----
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/julienbriault/AppVMigrationTool/master/icones/github-icone.png"/></p>
+ </p>
+ 
 # Start-up guide!
 
 ## Programming context
