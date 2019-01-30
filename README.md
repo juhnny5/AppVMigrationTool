@@ -20,7 +20,7 @@ Find the full start-up guide [here](https://julien-briault.gitbook.io/appvmigrat
 
 Check **before executing the binary** file that the _PowerShell commandlets_ are available. Use 32-bit PowerShell!
 
-```text
+```powershell
 Get-Module -Name AppvPkgConverter
 Get-command *appvlegacy*
 ```
