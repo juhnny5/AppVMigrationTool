@@ -19,11 +19,11 @@ Get-Module -Name AppvPkgConverter
 Get-command *appvlegacy*
 ```
 
-{% hint style="info" %}
+{% hint style="warning" %}
 If you use Windows 10, please install the [Windows ADK](https://docs.microsoft.com/en-us/windows-hardware/get-started/adk-install)
 {% endhint %}
 
+## Install on Windows 10
 
-
-
+Download this [zip file](https://github.com/julienbriault/AppVMigrationTool/releases/download/0.0.4/AppVMigrationTool.zip) and launch **AppVMigrationTool.exe** with administrator rights.
 
