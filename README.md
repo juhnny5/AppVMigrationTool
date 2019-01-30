@@ -38,4 +38,11 @@ Download this [zip file](https://github.com/julienbriault/AppVMigrationTool/rele
 <p align="center">
   <img src="https://raw.githubusercontent.com/julienbriault/AppVMigrationTool/master/images/test-screenshot-appvmigration-tool.png"/></p>
  </p>
+
+ ### Live preview
+ #### Convert an package App-V 4.6 to App-V 5.1
+ <p align="center">
+  <img src="https://raw.githubusercontent.com/julienbriault/AppVMigrationTool/master/images/convertpackage.gif"/></p>
+ </p>
+
  
