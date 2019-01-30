@@ -25,3 +25,5 @@ If you use Windows 10, please install the [Windows ADK](https://docs.microsoft.c
 
 Download this [zip file](https://github.com/julienbriault/AppVMigrationTool/releases/download/0.0.4/AppVMigrationTool.zip) and launch **AppVMigrationTool.exe** with administrator rights.
 
+
+
