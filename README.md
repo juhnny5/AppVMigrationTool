@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/julienbriault/AppVMigrationTool/master/icones/github-icone.png"/></p>
  </p>
  
-# Start-up guide!
+# Foreword
 
 ## Programming context
 
