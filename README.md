@@ -19,9 +19,7 @@ Get-Module -Name AppvPkgConverter
 Get-command *appvlegacy*
 ```
 
-{% hint style="warning" %}
-If you use Windows 10, please install the [Windows ADK](https://docs.microsoft.com/en-us/windows-hardware/get-started/adk-install)
-{% endhint %}
+If you use Windows 10, please install the [Windows ADK](https://docs.microsoft.com/en-us/windows-hardware/get-started/adk-install).
 
 ## Install on Windows 10
 
