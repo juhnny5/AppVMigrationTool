@@ -2,8 +2,6 @@
 
 ![](https://raw.githubusercontent.com/julienbriault/AppVMigrationTool/master/icones/github-icone.png)
 
-## Foreword
-
 ### Programming context
 
 The programming of this graphic tool is part of a study project at the ENI school in Nantes, France. The purpose of this tool is to simplify the conversion from an App-V 4.6 package to a 5.1 package without going through the command line.
